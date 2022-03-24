@@ -38,4 +38,3 @@ References to any papers, techniques, repositories you used:
 - Papers
 - Repositories
 - Blog posts
-- 
