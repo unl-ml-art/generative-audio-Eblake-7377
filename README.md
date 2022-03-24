@@ -1,18 +1,16 @@
 # Project 2 Generative Audio
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Ebben Blake, eblake3@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+"Answer The Call"
+
+Using Jukebox I plan on taking pleas from vitimcs of war, genocide, and pestilence and annocuments from political officals and switch the voices as a social experiment, seeing if the attention or level of importance/value would shift. Using easliy identifable voices that the masses recognize with power and the voices of children to serve as the inhereablely lesser valued voice, Would listeners be more compelled by the content or the voice. Will listeners join the call to action or would they be dismissive due to the tone and vocie rather then the contnet at all. I have not decied yet how I want to measure the listeners preference, but I will keep the details of which audio is true to the speaker and which is swapped.
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+Using a mix of JukeBox and GPT2 text genration and recorded transcripts from civilians and politicans.
 
 ## Code
 
